@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background: #141423;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    margin: 2px;
+    border-radius: 30px;
+}
+
+h1 {
+    color: whitesmoke;
+    cursor: pointer;
+}
